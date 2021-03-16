@@ -6,6 +6,9 @@ section {
   padding: 30px 0!important;
 }
 
+/* sfondo titolo */
+.bg-primary {background-color: #ff9900!important;}
+
 /* footer */
 .pt-5, .py-5 {padding-top: 1rem!important;}
 .pb-5, .py-5 {padding-bottom: 1rem!important;}
