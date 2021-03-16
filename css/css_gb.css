@@ -10,11 +10,11 @@ section {
 .bg-primary {background-color: #ff9900!important;}
 
 /* collegamenti */
-a:link {color: #FF9900;  text-decoration: none;  font-weight: bold!important;}
+a:link {color: #FF9900;  text-decoration: none; }
 
 a:hover {color: #ff9900;   text-decoration:underline!important; font-weight: bold!important;}
 
-a:visited {color: #FF9900; text-decoration: none;  font-weight: bold!important;}
+a:visited {color: #FF9900; text-decoration: none; }
 
 /* footer */
 .pt-5, .py-5 {padding-top: 1rem!important;}
