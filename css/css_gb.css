@@ -10,9 +10,7 @@ section {
 .bg-primary {background-color: #ff9900!important;}
 
 a {
-    color: #ff9900!important;
-    text-decoration: none;
-    background-color: transparent;
+    color: #ff9900;
     font-weight: bold!important;
 }
 
