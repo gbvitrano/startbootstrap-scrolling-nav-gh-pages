@@ -9,10 +9,20 @@ section {
 /* sfondo titolo */
 .bg-primary {background-color: #ff9900!important;}
 
-a {
+a:link {
+    color: #FF9900;
+    text-decoration: none;
+   font-weight: bold!important;}
+
+a.hover {
     color: #ff9900;
-    font-weight: bold!important;
-}
+  text-decoration:underline;
+    font-weight: bold!important;}
+
+a:visited {
+    color: #FF9900;
+    text-decoration: none;
+   font-weight: bold!important;}
 
 /* footer */
 .pt-5, .py-5 {padding-top: 1rem!important;}
