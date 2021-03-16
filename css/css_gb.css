@@ -9,6 +9,13 @@ section {
 /* sfondo titolo */
 .bg-primary {background-color: #ff9900!important;}
 
+a {
+    color: #ff9900!important;
+    text-decoration: none;
+    background-color: transparent;
+    font-weight: bold!important;
+}
+
 /* footer */
 .pt-5, .py-5 {padding-top: 1rem!important;}
 .pb-5, .py-5 {padding-bottom: 1rem!important;}
