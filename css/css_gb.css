@@ -38,7 +38,8 @@ a:visited {color: #FF9900; text-decoration: none; }
 .dev-icons {font-size: 3rem;}
 
 /* font family in mobile */
-@media (min-width: 320px) and (max-width: 1024px) { body  { font-size: 0.75rem!important;}
+@media (min-width: 240px) and (max-width: 1023px) { body  { font-size: 0.75rem!important;}
+	
 /* footer */
 .pt-5, .py-5 {padding-top: 1rem!important;}
 .pb-5, .py-5 {padding-bottom: 1rem!important;}
