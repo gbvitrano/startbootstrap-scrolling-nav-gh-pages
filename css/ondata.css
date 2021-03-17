@@ -7,14 +7,14 @@ section {
 }
 
 /* sfondo titolo */
-.bg-primary {background-color: #ff9900!important;}
+.bg-primary {background-color: #C4F6EA!important;}
 
 /* collegamenti */
-a:link {color: #FF9900;  text-decoration: none; }
+a:link {color: #FF0000;  text-decoration:underline!important;; }
 
-a:hover {color: #ff9900;   text-decoration:underline!important; /* font-weight: bold!important;*/}
+a:hover {color: #ff0000;   text-decoration:none!important; /* font-weight: bold!important;*/}
 
-a:visited {color: #FF9900; text-decoration: none; }
+a:visited {color: #FF0000; text-decoration:underline!important; }
 
 /* icona social */
 .social-icons .social-icon {
