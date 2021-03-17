@@ -27,18 +27,15 @@ a:visited {color: #FF9900; text-decoration: none; }
   color: #fff;
   border-radius: 100%;
   font-size: 1.3rem;
-  margin-right: 0.3rem;
-}
-.social-icons .social-icon:last-child {
-  margin-right: 0;
-}
-.social-icons .social-icon:hover {
-  background-color: #ff9900;
-}
+  margin-right: 0.3rem;}
 
-.dev-icons {
-  font-size: 3rem;
-}
+.social-icons .social-icon:last-child {
+  margin-right: 0;}
+
+.social-icons .social-icon:hover {
+  background-color: #ff9900;}
+
+.dev-icons {font-size: 3rem;}
 
 /* footer */
 .pt-5, .py-5 {padding-top: 1rem!important;}
