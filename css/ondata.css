@@ -6,11 +6,10 @@ section {
   padding: 30px 0!important;
 }
 
-element.style {
-}
-
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
     color: #021b44!important; }
+
+.lead {color: #021b44!important;}
 
 /* sfondo titolo */
 .bg-primary {background-color: #c4e6fa!important;} 
