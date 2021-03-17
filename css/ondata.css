@@ -10,11 +10,11 @@ section {
 .bg-primary {background-color: #c4e6fa!important;} 
 
 /* collegamenti */
-a:link {color: #FF0000;  text-decoration:underline!important;; }
+a:link {color: #FF0000;  text-decoration:none!important; }
 
-a:hover {color: #ff0000;   text-decoration:none!important; /* font-weight: bold!important;*/}
+a:hover {color: #ff0000;   text-decoration::underline!important; /* font-weight: bold!important;*/}
 
-a:visited {color: #FF0000; text-decoration:underline!important; }
+a:visited {color: #FF0000; text-decoration:none!important; }
 
 /* icona social */
 .social-icons .social-icon {
