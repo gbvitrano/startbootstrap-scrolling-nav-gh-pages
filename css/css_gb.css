@@ -16,6 +16,30 @@ a:hover {color: #ff9900;   text-decoration:underline!important; /* font-weight: 
 
 a:visited {color: #FF9900; text-decoration: none; }
 
+/* icona social */
+.social-icons .social-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 3.5rem;
+  width: 3.5rem;
+  background-color: #495057;
+  color: #fff;
+  border-radius: 100%;
+  font-size: 1.5rem;
+  margin-right: 1.5rem;
+}
+.social-icons .social-icon:last-child {
+  margin-right: 0;
+}
+.social-icons .social-icon:hover {
+  background-color: #bd5d38;
+}
+
+.dev-icons {
+  font-size: 3rem;
+}
+
 /* footer */
 .pt-5, .py-5 {padding-top: 1rem!important;}
 .pb-5, .py-5 {padding-bottom: 1rem!important;}
