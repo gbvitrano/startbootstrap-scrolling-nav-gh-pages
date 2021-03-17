@@ -7,7 +7,7 @@ section {
 }
 
 /* sfondo titolo */
-.bg-primary {background-color: #C4F6EA!important;}
+.bg-primary {background-color: #c4e6fa!important;} 
 
 /* collegamenti */
 a:link {color: #FF0000;  text-decoration:underline!important;; }
