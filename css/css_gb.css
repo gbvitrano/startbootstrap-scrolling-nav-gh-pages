@@ -16,6 +16,14 @@ a:hover {color: #ff9900;   text-decoration:underline!important; /* font-weight: 
 
 a:visited {color: #FF9900; text-decoration: none; }
 
+/* filetto hr */
+hr  {border: 0;
+    height: 1px;
+    background: #ff9900;
+    background-image: linear-gradient(to right,  #eee, #ff9900,  #eee);
+	margin-top:20px;margin-bottom:20px;
+}
+
 /* icona social */
 .social-icons .social-icon {
   display: inline-flex;
