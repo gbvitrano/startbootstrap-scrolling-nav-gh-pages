@@ -37,6 +37,13 @@ a:visited {color: #FF0000; text-decoration:none!important; }
   font-size: 1.3rem;
   margin-right: 0.3rem;}
 
+/* filetto hr */
+hr  {border: 0;
+    height: 1px;
+    background: #ff9900!important;
+    background-image: linear-gradient(to right,  #eee, #021b44de,  #eee)!important;
+	margin-top:20px;margin-bottom:20px;
+}
 .social-icons .social-icon:last-child {
   margin-right: 0;}
 
