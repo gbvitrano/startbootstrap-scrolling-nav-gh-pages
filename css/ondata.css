@@ -41,7 +41,7 @@ a:visited {color: #FF0000; text-decoration:none!important; }
 hr  {border: 0;
     height: 1px;
     background: #ff9900!important;
-    background-image: linear-gradient(to right,  #eee, #021b44de,  #eee)!important;
+    background-image: linear-gradient(to right,  #eee, #021b44,  #eee)!important;
 	margin-top:20px;margin-bottom:20px;
 }
 
